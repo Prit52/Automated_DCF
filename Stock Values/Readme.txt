@@ -9,5 +9,7 @@ Note:
 Get the Data only from the stated website, the automation works on the that specific format.
 Download CSV files, for the Financial Statements.
 
+Some Example Company data is already been Uplaoded.
+
 
 
