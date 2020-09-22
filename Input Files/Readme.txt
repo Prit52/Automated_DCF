@@ -1,4 +1,4 @@
-#Instructions
+# Instructions
 
 The Input Files is used to store the Financial Statement of Company you want to value using DCF.
 Use the Website SimFin (https://simfin.com/) to downlod the Financial Statements.
